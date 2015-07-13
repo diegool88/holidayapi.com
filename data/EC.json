@@ -1,0 +1,13 @@
+[
+	{ "name" : "Año Nuevo",                           "rule" : "January 1st"                           },
+	{ "name" : "Día del Trabajo",                                  "rule" : "May 1st"                               },
+	{ "name" : "Día de la Madre",                             "rule" : "Second Sunday of May"                  },
+	{ "name" : "Día del niño",                                 "rule" : "June 1st"                             },
+	{ "name" : "Día del Padre",                             "rule" : "Third Sunday of June"                  },
+	{ "name" : "Priemer Grito de Independencia",                     "rule" : "August 10th"                           },
+	{ "name" : "Independencia de Guayaquil",                          "rule" : "October 9th"                           },
+	{ "name" : "Día de los difuntos",                             "rule" : "November 2nd"                         },
+	{ "name" : "Independencia de Cuenca",                             "rule" : "November 3rd"                         },
+	{ "name" : "Navidad",                                "rule" : "December 25th"                         },
+	{ "name" : "Año viejo",                           "rule" : "December 31st"                         }
+]
